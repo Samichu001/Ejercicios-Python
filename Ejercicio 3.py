@@ -12,4 +12,3 @@ while numero != aleatorio:
     else:
         print("Enhorabuena!!!")
         break
- 
